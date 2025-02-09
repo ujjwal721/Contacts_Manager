@@ -1,13 +1,10 @@
-A simple Contact Manager built using Ruby that allows users to store, search, update, and delete contacts efficiently. Contacts are stored in a JSON file for persistence.
+<p>A simple Contact Manager built using Ruby that allows users to store, search, update, and delete contacts efficiently. Contacts are stored in a JSON file for persistence.</p>
 
-Features
-
-Add Contact (Name, Email, Phone) with validation
-
-Search Contacts (using name)
-
-List All Contacts 
-
-Update Contact (Search by name, update details)
-
-Delete Contact (Search by name and remove entry)
+<h1>Features Implemented</h1>
+<ul>
+  <li><b>Add Contact (with email and phone validation)</b></li><br/>
+  <li><b>Search Contacts</b></li><br/>
+  <li><b>List Contacts </b></li><br/>
+  <li><b>Update Contact (Search by name and modify details)</b></li><br/>
+  <li><b>Delete Contact (Search by name and remove entry)</b></li><br/>
+</ul>
